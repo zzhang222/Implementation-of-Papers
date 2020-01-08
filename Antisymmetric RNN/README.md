@@ -3,4 +3,4 @@ This is simple implementation of [Antisymmetric RNN](https://openreview.net/pdf?
 paper.
 
 ## Slides
-* PDF [version PDF](Antisymmetric_RNN.pdf)
+* PDF [Paper Review](Antisymmetric_RNN.pdf)
