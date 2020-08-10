@@ -7,7 +7,7 @@ To run the example of Pixel MNIST:
 python pixel.py
 ```
 
-To compare the results with other baseline methods like LSTM, GRU and Vanilla RNN, change the variable `net_type` to corresponding method names like `LSTM`, `GRU`, `RNN`. If you add more architectures by yourself, you can simply add them in the `rnn.py` file in `ASNN/learner/nn`.
+To compare the results with other baseline methods like LSTM, GRU and Vanilla RNN, change the variable `net_type` to corresponding method names like `LSTM`, `GRU`, `RNN`. If you'd like to add more rnn architectures by yourself, you can simply add them in the `rnn.py` file in `ASNN/learner/nn`.
 
 ## Slides
 * PDF [Paper Review](Antisymmetric_RNN.pdf)
