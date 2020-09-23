@@ -4,7 +4,6 @@ paper using the Pytorch-based framework [Learner](https://github.com/jpzxshi/lea
 
 To run the example of Pixel MNIST:
 ```
-cd ./ASNN
 python pixel.py
 ```
 
